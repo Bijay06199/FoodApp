@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector tools:shrinkMode="strict" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:andriod="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+
+    <item android:state_focused="true" android:color="@color/fade_text_color"/>
+    <item android:state_pressed="true"  android:color="@color/fade_text_color" />
+    <item android:color="@color/text_color"/>
+
+</selector>

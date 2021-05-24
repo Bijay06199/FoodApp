@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#FFF</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="white">#FFF</color>
+    <color name="fade_white">#F1F3F8</color>
+    <color name="black">#000</color>
+    <color name="text_color">#262420</color>
+    <color name="onboarding_button_color">#F37220</color>
+    <color name="splash_color">#F37220</color>
+    <color name="fade_orange_color">#3BF37220</color>
+    <color name="transparent_color">#00000000</color>
+
+    <color name="blue_text_color">#3781FC</color>
+    <color name="fade_blue_text_color">#993781FC</color>
+    <color name="hint_color">#9A2A3632</color>
+    <color name="background_fade_color">#83262627</color>
+    <color name="fade_text_color">#B8BBC6</color>
+    <color name="fade_text_color_1">#7F8592</color>
+    <color name="fade_line_color">#707070</color>
+    <color name="border_color">#EFEFEF</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="light_text_color">#72000000</color>
+</resources>
